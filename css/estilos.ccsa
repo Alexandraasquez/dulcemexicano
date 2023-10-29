@@ -1,0 +1,32 @@
+.jumbotron {
+	background-color: #5E74A1;
+	color: #ffffff;
+	padding:100px 25px;
+	font-family: sans-serif;
+	text-align: center
+}
+.container-fluid {
+	padding: 40px 50px;
+}
+.bg-grey {
+	background-color: #DCDCDC;
+}
+.panel {
+	border: 1px solid #EDC45B;
+}
+.panel:hover {
+	box-shadow: 3px 7px 30px #008000;
+}
+
+
+
+
+
+
+
+
+	border-bottom-right-radius: 0px;
+}
+.panel-footer {
+	background-color: #EDC45B;
+}
